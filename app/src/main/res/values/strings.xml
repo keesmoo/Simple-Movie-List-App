@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">FPAndroid List Film</string>
+    <string name="about">About</string>
+    <string name="film_name">Film Title</string>
+    <string name="description">Description</string>
+
+    <string-array name="data_name">
+        <item>Aquaman and the Lost Kingdom</item>
+        <item>The Beekeeper</item>
+        <item>Despicable Me 4</item>
+        <item>Godzilla x Kong: The New Empire</item>
+        <item>Kung Fu Panda 4</item>
+        <item>Lift</item>
+        <item>Under Paris</item>
+        <item>Resident Evil: Retribution</item>
+        <item>The Meg</item>
+        <item>13 Going on 30</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Aquaman and the Lost Kingdom adalah sebuah film superhero Amerika Serikat tahun 2023 yang didasarkan pada DC karakter Aquaman. </item>
+        <item>Sebuah kampanye brutal untuk membalas dendam oleh seorang pria mengambil skala nasional setelah terungkap bahwa dia adalah mantan anggota dari organisasi kuat dan rahasia yang dikenal sebagai Beekeepers.</item>
+        <item>Gru menyambut anggota baru dalam keluarga, Gru Jr., yang berniat untuk menyiksa ayahnya. Namun, kehidupan damai mereka segera hancur ketika jenius kriminal Maxime Le Mal melarikan diri dari penjara dan bersumpah untuk membalas dendam terhadap Gru.</item>
+        <item>Godzilla dan Kong yang perkasa menghadapi ancaman kolosal yang tersembunyi jauh di dalam planet, yang menantang keberadaan mereka dan kelangsungan hidup umat manusia.</item>
+        <item>Kung Fu Panda 4 adalah film animasi komedi bela diri Amerika Serikat tahun 2024 yang diproduseri oleh DreamWorks Animation dan didistribusikan oleh Universal Pictures. Film ini ialah seri keempat dalam waralaba Kung Fu Panda sekaligus sekuel dari Kung Fu Panda 3.</item>
+        <item>Lift adalah film komedi pencurian Amerika Serikat tahun 2024 yang disutradarai oleh F. Gary Gray dan ditulis oleh Daniel Kunka. Film ini dibintangi oleh Kevin Hart, Gugu Mbatha-Raw, Vincent D Onofrio, Úrsula Corberó, Billy Magnussen, Jacob Batalon, Jean Reno, dan Sam Worthington.</item>
+        <item>Untuk menyelamatkan Paris dari pembantaian, seorang ilmuwan yang berduka terpaksa menghadapi masa lalunya yang tragis ketika hiu raksasa muncul di Sungai Seine.</item>
+        <item>Ketika Alice mengetahui bahwa virus mematikan dari Umbrella Corporation semakin mendekati kehancuran umat manusia, dia memutuskan untuk memburu orang-orang yang bertanggung jawab atas penyebaran virus tersebut.</item>
+        <item>Ketika anggota fasilitas penelitian bawah air terancam oleh hiu prasejarah setinggi 75 kaki, Jonas Taylor, seorang penyelam laut dalam, disewa untuk menyelamatkan mereka.</item>
+        <item>Jenna Rink membuat sebuah permohonan yang tidak biasa di hari ulang tahunnya. Secara ajaib, permohonannya terwujud dan Jenna yang berusia 13 tahun terbangun keesokan harinya sebagai wanita berusia 30 tahun.</item>
+    </string-array>
+
+    <string-array name="data_producer">
+        <item>James Wan</item>
+        <item>David Ayer</item>
+        <item>Chris Meledandri</item>
+        <item>Adam Wingard</item>
+        <item>Rebecca Huntley</item>
+        <item>F. Gary Gray</item>
+        <item>Xavier Gens</item>
+        <item>Paul W.S. Anderson</item>
+        <item>Jon Turteltaub</item>
+        <item>	Gary Winick</item>
+    </string-array>
+
+    <string-array name="data_actor">
+        <item>Jason Momoa</item>
+        <item>Jason Statham</item>
+        <item>Steve Carell</item>
+        <item>Rebecca Hall</item>
+        <item>Gregory</item>
+        <item>Kevin Hart</item>
+        <item>Bérénice Bejo</item>
+        <item>Milla Jovovich</item>
+        <item>Jason Statham</item>
+        <item>Jennifer Garner</item>
+    </string-array>
+
+    <integer-array name="data_year">
+        <item>2023</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2024</item>
+        <item>2012</item>
+        <item>2018</item>
+        <item>2004</item>
+    </integer-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/aquaman</item>
+        <item>@drawable/beekeper</item>
+        <item>@drawable/despicable</item>
+        <item>@drawable/godzilla</item>
+        <item>@drawable/kungfu</item>
+        <item>@drawable/lift</item>
+        <item>@drawable/under_paris</item>
+        <item>@drawable/resident</item>
+        <item>@drawable/meg</item>
+        <item>@drawable/going</item>
+    </integer-array>
+</resources>
